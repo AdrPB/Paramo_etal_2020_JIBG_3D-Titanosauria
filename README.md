@@ -7,6 +7,6 @@
 
 
 This is the supplementary material as presented in the online manuscript of the Journal of Iberian Geology.
-The Online Resource 1-folder includes in a single instance the landmark data, specimen datasets and the estimated landmarks.
+The Online Resource 1-zip file includes in a single file the entire landmark datasets, specimen datasets and the estimated landmarks.
 
 The Online Resource 6 is the R code.
